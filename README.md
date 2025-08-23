@@ -38,20 +38,18 @@ Navegue pelos temas abaixo para acessar as anotações detalhadas de cada um.
     * Dictionary
 
 * ### [ Funções](./Funcoes/)
-    * **[➡️ Acessar anotações sobre Funções](./Funcoes/README.md)**
+    [➡️ Acessar anotações sobre Funções](./Funcoes/README.md)**
     * Declaração e Chamada
     * Parâmetros e Valores de Retorno
     * Rótulos de Argumento e Nomes de Parâmetro
     * Parâmetros `inout` e Variádicos
 
 * ### [ Closures](./Closures/)
-  [➡️ Acessar anotações sobre Funções](./Closures/README.md)
+    [➡️ Acessar anotações sobre Closures](./Closures/README.md)
     * Declaração e Chamada
     * Parâmetros e Valores de Retorno
-    * Rótulos de Argumento e Nomes de Parâmetro
-    * Parâmetros `inout` e Variádicos
-
-
+    * Retornando closure
+    * Exemplo prático
 
 ## Como Contribuir
 
