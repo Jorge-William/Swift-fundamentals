@@ -44,6 +44,14 @@ Navegue pelos temas abaixo para acessar as anotações detalhadas de cada um.
     * Rótulos de Argumento e Nomes de Parâmetro
     * Parâmetros `inout` e Variádicos
 
+* ### [ Closures](./Closures/)
+  [➡️ Acessar anotações sobre Funções](./Closures/README.md)
+    * Declaração e Chamada
+    * Parâmetros e Valores de Retorno
+    * Rótulos de Argumento e Nomes de Parâmetro
+    * Parâmetros `inout` e Variádicos
+
+
 
 ## Como Contribuir
 
