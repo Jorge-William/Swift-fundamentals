@@ -10,50 +10,62 @@ O objetivo deste projeto é criar um guia de referência pessoal, consolidando o
 
 Navegue pelos temas abaixo para acessar as anotações detalhadas de cada um.
 
-* ### [ Conceitos Básicos](./Conceitos-Basicos/)
-    * Variáveis e Constantes (`var` e `let`)
-    * Tipos de Dados (Int, String, Double, Bool)
-    * Interpolação de Strings
-    * Comentários
-    * Optionals
- 
-* ### [ Controle de fluxo](./Control-Flow/)
-    * if
-    * for
-    * range operator
-    * repeat while
-    * switch
-    * while
+* ### [Conceitos Básicos](./Conceitos-Basicos/)
+  
+* Variáveis e Constantes (`var` e `let`)
+* Tipos de Dados (Int, String, Double, Bool)
+* Interpolação de Strings
+* Comentários
+* Optionals
+  
+* ### [Controle de fluxo](./Control-Flow/)
 
-* ### [ Operadores](./Operadores/)
-    * Operadores Aritméticos
-    * Operadores de Atribuição
-    * Operadores de Comparação
-    * Operadores Lógicos
+* if
+* for
+* range operator
+* repeat while
+* switch
+* while
 
-* ### [ Coleções](./Colecoes/)
-    * Array
-    * Set
-    * Tuples
-    * Dictionary
+* ### [Operadores](./Operadores/)
+  
+* Operadores Aritméticos
+* Operadores de Atribuição
+* Operadores de Comparação
+* Operadores Lógicos
 
-* ### [ Funções](./Funcoes/)
+* ### [Coleções](./Colecoes/)
+  
+* Array
+* Set
+* Tuples
+* Dictionary
+
+* ### [Funções](./Funcoes/)
+  
     [➡️ Acessar anotações sobre Funções](./Funcoes/README.md)**
-    * Declaração e Chamada
-    * Parâmetros e Valores de Retorno
-    * Rótulos de Argumento e Nomes de Parâmetro
-    * Parâmetros `inout` e Variádicos
+* Declaração e Chamada
+* Parâmetros e Valores de Retorno
+* Rótulos de Argumento e Nomes de Parâmetro
+* Parâmetros `inout` e Variádicos
 
-* ### [ Closures](./Closures/)
+* ### [Closures](./Closures/)
+
     [➡️ Acessar anotações sobre Closures](./Closures/README.md)
-    * Declaração e Chamada
-    * Parâmetros e Valores de Retorno
-    * Retornando closure
-    * Exemplo prático
+* Declaração e Chamada
+* Parâmetros e Valores de Retorno
+* Retornando closure
+* Exemplo prático
+
+* ### [Structures](./Structures/)
+  
+    [➡️ Acessar anotações sobre Structures](./Structures/README.md)
+* Declaração
+* Métodos e Propriedades
+* Under the hood
+* Inicializers("construtores")
+* Propriedade Estática(static)
 
 ## Como Contribuir
 
 Este é um repositório pessoal de aprendizado, mas sugestões e correções são bem-vindas! Se encontrar algum erro, sinta-se à vontade para abrir uma *Issue*.
-
----
-**"A melhor maneira de aprender é ensinar."**
