@@ -90,3 +90,33 @@ struct Pizza{
 Pizza.count
 
 ```
+
+
+## Property Observer
+
+**didSet{}** - possibilita a execução de um trecho de código **após** a modificação de uma propriedade
+
+**willSet{}** - essa execução contece antes da propriedade ser alterada
+
+``` Swift
+Struct Pizza{
+  var nome: String
+  var quantidade: Int {
+    willSet{
+       // bloco de código que será executado antes que ocorrer qualquer modificação na propriedade quantidade
+
+      print("A quantidade de pizzas sabor \(nome) será modificada para: \(quantidade)")
+    }
+
+    didSet{
+      // bloco de código que será executado depois que ocorrer qualquer modificação na propriedade quantidade
+
+      print("A quantidade de pizzas sabor \(nome) foi modificada para: \(quantidade)")
+    }
+    
+  }
+
+
+}
+
+```
