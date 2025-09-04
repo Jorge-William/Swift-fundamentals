@@ -120,3 +120,43 @@ Struct Pizza{
 }
 
 ```
+
+## Getter and Setter
+
+Apesar de ter o mesmo objetivo em outras linguagens, essas palavras chave funcionam de maneira ligeiramente diferente em Swift. Aqui a forma de chamar esse "métodos"fica a cargo da linguagem que gerencia isso por nós, facilitando nossa vida já que na hora de alterar ou visualizar uma determinadad propriedade, chamamos-as de maneira simples como antes usando dot notation.
+
+```Swift
+
+
+struct Pessoa {
+
+  nome: String {
+    get {
+      return nome
+    }
+
+    set {
+      self.nome = newValue
+    }
+  }
+
+  idade: Int {
+    get {
+      return idade
+    }
+    set {
+      self.idade = newValue
+    } 
+  }
+}
+
+
+var funcionarioUm = Pessoa(nome: "Carlos",
+idade: 40)
+
+// Não preciso chamar o metodo set tipo: setNome()....
+funcionarioUm.nome = "Roberto Carlos"
+print(funcionarioUm.idade) // 40
+
+
+```
