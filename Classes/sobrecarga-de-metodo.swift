@@ -13,12 +13,12 @@ class Veiculo {
 }
 
 class Carro: Veiculo {
-  init(nome: nome....){
+  init(nome: String....){
     super.init(nome: nome)
   }
-
+fix
   // A declaração do método acelerar na classe pai faz com que a sobrecarga aconteça e o metodo da classe pai seja sobrescrita
-  func acelerar() -> String {
+  override func acelerar() -> String {
     return "Swwwwwwwwssss"
   }
 
