@@ -10,7 +10,11 @@ O objetivo deste projeto é criar um guia de referência pessoal, consolidando o
 
 Navegue pelos temas abaixo para acessar as anotações detalhadas de cada um.
 
-* ### [Conceitos Básicos](./Conceitos-Basicos/)
+### [Design Patterns](./design-patterns/README.md)
+
+Aqui é onde agrego todo conteúdo aprendido em exemplos práticos seguindo os padrões de design, separados pelos seguintes tipos:  **Estrutural**, **Comportamental** e **Criacional**.
+
+### [Conceitos Básicos](./Conceitos-Basicos/)
   
 * Variáveis e Constantes (`var` e `let`)
 * Tipos de Dados (Int, String, Double, Bool)
@@ -18,7 +22,7 @@ Navegue pelos temas abaixo para acessar as anotações detalhadas de cada um.
 * Comentários
 * Optionals
   
-* ### [Controle de fluxo](./Control-Flow/)
+### [Controle de fluxo](./Control-Flow/)
 
 * if
 * for
@@ -27,44 +31,47 @@ Navegue pelos temas abaixo para acessar as anotações detalhadas de cada um.
 * switch
 * while
 
-* ### [Operadores](./Operadores/)
+### [Operadores](./Operadores/)
   
 * Operadores Aritméticos
 * Operadores de Atribuição
 * Operadores de Comparação
 * Operadores Lógicos
 
-* ### [Coleções](./Colecoes/)
+### [Coleções](./Colecoes/)
   
 * Array
 * Set
 * Tuples
 * Dictionary
 
-* ### [Funções](./Funcoes/)
+### [Funções](./Funcoes/)
   
-    [➡️ Acessar anotações sobre Funções](./Funcoes/README.md)**
+[➡️ Acessar anotações sobre Funções](./Funcoes/README.md)
+
 * Declaração e Chamada
 * Parâmetros e Valores de Retorno
 * Rótulos de Argumento e Nomes de Parâmetro
 * Parâmetros `inout` e Variádicos
 
-* ### [Closures](./Closures/)
+### [Closures](./Closures/)
 
-    [➡️ Acessar anotações sobre Closures](./Closures/README.md)
+[➡️ Acessar anotações sobre Closures](./Closures/README.md)
+
 * Declaração e Chamada
 * Parâmetros e Valores de Retorno
 * Retornando closure
 * Exemplo prático
 
-* ### [Structures](./Structures/)
-  
-    [➡️ Acessar anotações sobre Structures](./Structures/README.md)
+### [Structures](./Structures/)
+
+  [➡️ Acessar anotações sobre Structures](./Structures/README.md)
+
 * Declaração
 * Métodos e Propriedades
 * Under the hood
 * Inicializers("construtores")
-* Propriedade Estática(static)
+* Propriedade Estática(static
 
 ## Como Contribuir
 
