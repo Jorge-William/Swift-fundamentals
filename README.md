@@ -10,6 +10,14 @@ O objetivo deste projeto é criar um guia de referência pessoal, consolidando o
 
 Navegue pelos temas abaixo para acessar as anotações detalhadas de cada um.
 
+### [Variáveis e Constantes](./Variaveis-Constantes/)
+  
+[➡️ Acessar anotações sobre Variáveis e Constantes](./Variaveis-Constantes/README.md)
+
+* Diferença entre `var` e `let`
+* Exemplos de uso
+* Boas práticas
+
 ### [Design Patterns](./design-patterns/README.md)
 
 Aqui é onde agrego todo conteúdo aprendido em exemplos práticos seguindo os padrões de design, separados pelos seguintes tipos:  **Estrutural**, **Comportamental** e **Criacional**.
@@ -72,6 +80,14 @@ Aqui é onde agrego todo conteúdo aprendido em exemplos práticos seguindo os p
 * Under the hood
 * Inicializers("construtores")
 * Propriedade Estática(static
+
+### [Protocolos](./Protocol/)
+  
+[➡️ Acessar anotações sobre Protocolos](./Protocol/README.md)
+
+* O que são Protocolos
+* Como declarar e adotar
+* Exemplo prático de uso
 
 ## Como Contribuir
 
