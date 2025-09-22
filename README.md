@@ -10,6 +10,16 @@ O objetivo deste projeto é criar um guia de referência pessoal, consolidando o
 
 Navegue pelos temas abaixo para acessar as anotações detalhadas de cada um.
 
+### [Tipos de Dados](./Tipos-De-Dados/)
+  
+[➡️ Acessar anotações sobre Tipos de Dados](./Tipos-De-Dados/README.md)
+
+* Int, Double, Float
+* Bool
+* String, Character
+* Array, Dictionary, Set
+* Optional
+
 ### [Variáveis e Constantes](./Variaveis-Constantes/)
   
 [➡️ Acessar anotações sobre Variáveis e Constantes](./Variaveis-Constantes/README.md)
